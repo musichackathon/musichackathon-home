@@ -126,7 +126,6 @@ header li {
   float:left;
   border-right:1px solid #d2d2d2;
   height:40px;
-  list-style-type: circle;
 }
 
 header ul a {
@@ -164,6 +163,10 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+}
+
+section li {
+  list-style-type: circle;
 }
 
 small {
