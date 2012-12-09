@@ -187,6 +187,10 @@ footer {
   bottom:50px;
 }
 
+#link_spacer {
+  height:10em;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
